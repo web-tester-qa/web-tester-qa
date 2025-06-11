@@ -84,8 +84,8 @@
 <h3 align="left">Награды и благодарности:</h3>
 
 <p>
-<a href="https://img.hhcdn.ru/photo/752746888.jpeg?t=1749122205&h=6E_XP1DYcwt8JjQdqEchkg" target="_blank" rel="noreferrer">
-<img src="https://img.hhcdn.ru/photo/752746888.jpeg?t=1749122205&h=6E_XP1DYcwt8JjQdqEchkg" alt="visittyumen" width="150" height="220"/>
+<a href="https://img.hhcdn.ru/photo/752746888.jpeg?t=1749733004&h=QFDxlCOqLle5iB4bOza51A" target="_blank" rel="noreferrer">
+<img src="https://img.hhcdn.ru/photo/752746888.jpeg?t=1749733004&h=QFDxlCOqLle5iB4bOza51A" alt="visittyumen" width="150" height="220"/>
 </a>
 </p>
 
