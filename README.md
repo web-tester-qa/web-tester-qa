@@ -8,7 +8,7 @@
 
 <h2 align="left">О себе</h2>
 
-<p>QA (Manual) инженер коммерческой разработки web-приложений</p>
+<p><i>QA инженер коммерческой разработки web-приложений</i></p>
 
 ---
 
@@ -18,25 +18,25 @@
   <img src="https://cdn.stepik.net/static/classic/ico/favicon_152.png?1748261922" alt="stepik_logo" width="15" height="15"/> Профиль Stepik
 </a>
 <ul>
-  <li>Сертификат <a href="https://stepik.org/cert/2452737" target="_blank" rel="noreferrer">
+  <li><i>Сертификат <a href="https://stepik.org/cert/2452737" target="_blank" rel="noreferrer">
   Тестирование ПО с нуля. Теория + Практика
   <img src="https://cdn-icons-png.flaticon.com/512/7238/7238706.png" alt="certificate" width="15" height="15"/>
-  </a>
+  </a></i>
   </li>
-  <li>Сертификат <a href="https://stepik.org/cert/2459883" target="_blank" rel="noreferrer">
+  <li><i>Сертификат <a href="https://stepik.org/cert/2459883" target="_blank" rel="noreferrer">
   Тестирование ПО: Postman для тестирования API
   <img src="https://cdn-icons-png.flaticon.com/512/7238/7238706.png" alt="certificate" width="15" height="15"/>
-  </a>
+  </a></i>
   </li>
-  <li>Сертификат <a href="https://stepik.org/cert/2686810" target="_blank" rel="noreferrer">
+  <li><i>Сертификат <a href="https://stepik.org/cert/2686810" target="_blank" rel="noreferrer">
   Введение в Linux
   <img src="https://cdn-icons-png.flaticon.com/512/7238/7238706.png" alt="certificate" width="15" height="15"/>
-  </a>
+  </a></i>
   </li>
-  <li>Сертификат <a href="https://stepik.org/cert/2815211" target="_blank" rel="noreferrer">
+  <li><i>Сертификат <a href="https://stepik.org/cert/2815211" target="_blank" rel="noreferrer">
   Тестирование ПО: подготовка к сертификации ISTQB Foundation
   <img src="https://cdn-icons-png.flaticon.com/512/7238/7238706.png" alt="certificate" width="15" height="15"/>
-  </a>
+  </a></i>
   </li>
 </ul>
 
@@ -44,50 +44,42 @@
   <img src="https://www.sololearn.com/Images/favicon.ico" alt="sololearn_logo" width="15" height="15"/> Профиль Sololearn
 </a>
 <ul>
-  <li>Мини-навык <a href="https://www.sololearn.com/certificates/CC-HPQGKLBL" target="_blank" rel="noreferrer">
+  <li><i>Мини-навык <a href="https://www.sololearn.com/certificates/CC-HPQGKLBL" target="_blank" rel="noreferrer">
   Introduction to HTML
   <img src="https://cdn-icons-png.flaticon.com/512/7238/7238706.png" alt="certificate" width="15" height="15"/>
-  </a>
+  </a></i>
   </li>
-  <li>Мини-навык <a href="https://www.sololearn.com/certificates/CC-UUUAHJZ9" target="_blank" rel="noreferrer">
+  <li><i>Мини-навык <a href="https://www.sololearn.com/certificates/CC-UUUAHJZ9" target="_blank" rel="noreferrer">
   Introduction to CSS
   <img src="https://cdn-icons-png.flaticon.com/512/7238/7238706.png" alt="certificate" width="15" height="15"/>
-  </a>
+  </a></i>
   </li>
-  <li>Мини-навык <a href="https://www.sololearn.com/certificates/CC-SQ5HSX11" target="_blank" rel="noreferrer">
+  <li><i>Мини-навык <a href="https://www.sololearn.com/certificates/CC-SQ5HSX11" target="_blank" rel="noreferrer">
   Introduction to JavaScript
   <img src="https://cdn-icons-png.flaticon.com/512/7238/7238706.png" alt="certificate" width="15" height="15"/>
-  </a>
+  </a></i>
   </li>
-  <li>Мини-навык <a href="https://www.sololearn.com/certificates/CC-A1KWEM5C" target="_blank" rel="noreferrer">
+  <li><i>Мини-навык <a href="https://www.sololearn.com/certificates/CC-A1KWEM5C" target="_blank" rel="noreferrer">
   Web Development
   <img src="https://cdn-icons-png.flaticon.com/512/7238/7238706.png" alt="certificate" width="15" height="15"/>
-  </a>
+  </a></i>
   </li>
-  <li>Мини-навык <a href="https://www.sololearn.com/certificates/CC-PPK4RPS5" target="_blank" rel="noreferrer">
+  <li><i>Мини-навык <a href="https://www.sololearn.com/certificates/CC-PPK4RPS5" target="_blank" rel="noreferrer">
   Introduction to SQL
   <img src="https://cdn-icons-png.flaticon.com/512/7238/7238706.png" alt="certificate" width="15" height="15"/>
-  </a>
+  </a></i>
   </li>
-  <li>Мини-навык <a href="https://www.sololearn.com/certificates/CC-I3ZYMMFN" target="_blank" rel="noreferrer">
+  <li><i>Мини-навык <a href="https://www.sololearn.com/certificates/CC-I3ZYMMFN" target="_blank" rel="noreferrer">
   JavaScript Intermediate
   <img src="https://cdn-icons-png.flaticon.com/512/7238/7238706.png" alt="certificate" width="15" height="15"/>
-  </a>
+  </a></i>
   </li>
-  <li>Мини-навык <a href="https://www.sololearn.com/certificates/CC-IT4HCHM8" target="_blank" rel="noreferrer">
+  <li><i>Мини-навык <a href="https://www.sololearn.com/certificates/CC-IT4HCHM8" target="_blank" rel="noreferrer">
   SQL Intermediate
   <img src="https://cdn-icons-png.flaticon.com/512/7238/7238706.png" alt="certificate" width="15" height="15"/>
-  </a>
+  </a></i>
   </li>
 </ul>
-
-<h3 align="left">Награды и благодарности:</h3>
-
-<p>
-<a href="https://img.hhcdn.ru/photo/752746888.jpeg?t=1749733004&h=QFDxlCOqLle5iB4bOza51A" target="_blank" rel="noreferrer">
-<img src="https://img.hhcdn.ru/photo/752746888.jpeg?t=1749733004&h=QFDxlCOqLle5iB4bOza51A" alt="visittyumen" width="150" height="220"/>
-</a>
-</p>
 
 ---
 
