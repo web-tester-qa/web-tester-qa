@@ -136,13 +136,13 @@
       <td>Инструменты</td>
       <td>
         <a href="https://developer.chrome.com/docs/devtools?hl=ru" target="_blank" rel="noreferrer">
-          <img src="https://static-00.iconduck.com/assets.00/chrome-devtools-icon-512x512-8iaxdppx.png" alt="devtools" width="40" height="40"/>
+          <img src="https://www.svgrepo.com/show/378786/chrome-devtools.svg" alt="devtools" width="40" height="40"/>
         </a>
         <a href="https://postman.com" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
         </a>
         <a href="https://www.telerik.com/fiddler" target="_blank" rel="noreferrer">
-          <img src="https://static-00.iconduck.com/assets.00/fiddler-icon-512x512-rxak528l.png" alt="fiddler" width="40" height="40"/>
+          <img src="https://cdn.fastpixel.io/fp/ret_img+v_9eb9+w_256+h_256+q_glossy+to_webp/www.megaleechers.com/wp-content/uploads/Fiddler-Everywhere-Icon.png" alt="fiddler" width="40" height="40"/>
         </a>
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
           <img src="https://devicon-website.vercel.app/api/vscode/original.svg" alt="vscode" width="40" height="40"/>
